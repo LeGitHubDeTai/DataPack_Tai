@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "XO"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:poppy"
+        },
+        "O": {
+            "item": "minecraft:wither_skeleton_skull"
+        }
+    },
+    "result": {
+        "item": "minecraft:wither_rose",
+        "count": 16
+    }
+}

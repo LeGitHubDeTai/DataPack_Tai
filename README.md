@@ -1,2 +1,2 @@
 # DataPack_Tai
-un datapack
+a datapack that adds craft.
